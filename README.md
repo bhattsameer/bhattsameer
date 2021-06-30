@@ -3,11 +3,11 @@
 </div>
  
 <p align='center'> 
-<a href="https://www.linkedin.com/in/bhatt-sameer"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/sameer_bhatt5"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@bhattsameer"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/sameer_bhatt5"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bhattsameer"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;</p>
+<a href="https://www.linkedin.com/in/bhatt-sameer"><img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sameer_bhatt5"><img height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@bhattsameer"><img height="25" src="https://img.shields.io/badge/Medium-%23354230.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/sameer_bhatt5"><img height="25" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bhattsameer"><img height="25" src="https://img.shields.io/badge/buymeatea-%23ffffff.svg?&style=for-the-badge&logo=buymeacoffee&logoColor=yellow"></a>&nbsp;&nbsp;</p>
 
 
 <div align="center">
