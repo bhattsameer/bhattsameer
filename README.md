@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<h3> :boy: Sameer Bhatt | 💻 Cyber Security Enthusiast | 🌏 India </h3> 
+<h3> 👦 Sameer Bhatt | 💻 Cyber Security Enthusiast | 🌏 India </h3> 
 </div>
 <div align="center">
 <p>  
