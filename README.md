@@ -22,7 +22,7 @@ I Am a Cyber Security Enthusiast and Your Friendly Debugger, Without BreakPoints
 </p>
 </div>
   
-I have stared my journey in the security field as a bug bounty hunter and post completing Bachelor of Engineering in Computer, I have stared my professional journey as Security Analyst. In these 4+ years of experience I have performed pentesting on many national and international Banking, Financial, Government, Health etc. organization's Internal and external applications with direct client communication.  
+I have stared my journey in the security field as a bug bounty hunter and post completing Bachelor of Engineering in Computer, I have started my professional journey as Security Analyst. Currently, I am working as a Senior Security Analyst. In these 5+ years of experience I have performed pentesting on many national and international Banking, Financial, Government, Health etc. organization's Internal and external applications with direct client communication.  
 
 I love 💖 doing things for the infosec community, I contribute to community by making [Vulnerable applications and Labs](https://bhattsameer.github.io/labs) and writing [blog posts](https://bhattsameer.github.io) about my research and stuff I am working on.
 
